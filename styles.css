@@ -13,3 +13,8 @@ li {
     font-weight: bolder;
     color: chartreuse;
 }
+
+button {
+    background-color: blue;
+    color: red;
+}
